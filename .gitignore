@@ -1,0 +1,14 @@
+# Ignore data
+data/raw/*
+data/processed/*
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints
+
+# Ignore models
+models/*
+
+# Ignore logs
+logs/*
+# Ignore vertual environment
+.venv/*
